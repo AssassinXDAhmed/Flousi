@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>💰 Flousi (فلوسي)</h1>
-  <p><strong>A modern, offline-first personal finance and expense tracker engineered with Flutter & Cloudflare Worker AI microservices.</strong></p>
+  <p><strong>A modern، personal finance and expense tracker engineered with Flutter & Cloudflare Worker AI microservices.</strong></p>
 
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
