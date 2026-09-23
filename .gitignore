@@ -1,0 +1,35 @@
+# Flutter & Dart builds
+build/
+.dart_tool/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE & Tooling
+*.js
+private_assets/
+Seed Data/
+*.txt
+analyze_output.txt
+
+# Web / Node dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & secrets
+.env
+*.env
+*.key
+secrets.json
+
+# Generated Firebase options (Keep local only)
+lib/firebase_options.dart
+
+#Firebase credentials
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+#Presentation
+PRODUCT.md
+flousi_presentation.js
